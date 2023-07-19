@@ -1,70 +1,62 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![logo](https://github.com/Jheimys/Alura_space/assets/80724830/2589528e-7ef3-45f4-aacb-500476fa759e) <h1 align=center> Alura Space</h1>
 
-In the project directory, you can run:
+# Bem vindo! 👋
 
-### `npm start`
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE)
+![NPM](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FJheimys%2FOrgano_II%2Fedit%2Fmaster%2FREADME.m)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Obrigado pela visita e fique a vontade!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Estou sempre buscando melhorar meu código, Ficarei feliz com seu feedback.
 
-### `npm test`
+# Descrição do Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O Alura Space  é um projeto com ênfase em desenvolvimento web utilizando diversos frameworks JavaScript. O objetivo principal do 
+aplicativo é simular uma galeria de fotos do espaço. O React foi a principal tecnologia usada no projeto, nele busquei aprimorar meus 
+conhecimentos de criação e estilização de componentes e gerenciamento de estado com UseState.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <p align=center>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/aluraSpace.png'>
+  </p>
+ 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Status do Projeto
 
-### `npm run eject`
+> :trophy: Finalizado ::trophy:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Funcionalidades do projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:hammer: `Funcionalidade `: Fazer o filtro de fotos de acordo com a categoria.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align=center>
+  <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/aluraSpacegif.gif'>
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# Tecnologias:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+:heavy_check_mark: HTML
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+:heavy_check_mark:CSS
 
-### Code Splitting
+:heavy_check_mark: JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+:heavy_check_mark: React
 
-### Analyzing the Bundle Size
+# Acesso ao projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+:link: https://alura-space-rouge.vercel.app/
 
-### Making a Progressive Web App
+## Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![img](https://github.com/Jheimys.png?size=100)
 
-### Advanced Configuration
+James Bezerra Bassani
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/jheimys/)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Have fun building!** 🚀
